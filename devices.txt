@@ -1,0 +1,5 @@
+Phone/Iphone 14/2022/1499.0
+Phone/Samsung s22/2021/1200.0
+Tv/LG NANO75/2021/950.0
+Tv/Sony x90JAEP/2021/2000.0
+Earphones/Buds 3 Pro/2021/250.9

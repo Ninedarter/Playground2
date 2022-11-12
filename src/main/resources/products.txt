@@ -1,0 +1,5 @@
+Pienas,Zemaitija,1.75
+Duona,Birzai,2.50
+Vanduo,Druskininkai,0.69
+Bulves,Raseiniai,1.52
+Alus,Vilnius,1.29
